@@ -1,0 +1,23 @@
+Bridge Surface add-in for SOLIDWORKS, version 0.0.1
+AJ Design Studio LTD - https://ajdesignstudio.co.nz
+
+An experimental add-in that creates a Bridge Surface feature: one lightweight,
+single/multi-span NURBS surface between two edges or sketch curves, with G0, G1 or G2
+continuity on each side, a CV-net preview and a measured continuity report.
+
+PLEASE READ
+
+- This is an experimental, curiosity-only release. It is distributed free of
+  charge, as is, with no warranty of any kind and no support commitment.
+  Use it on copies of your work, not production files.
+
+- Parts that contain a Bridge Surface need this add-in to rebuild or be edited.
+  Check this before sending such a part to anyone who does not have it.
+
+- Tested on SOLIDWORKS 2025 (64-bit). It also ran on SOLIDWORKS 2021, on a PC
+  that has 2025 installed as well; other setups are untested. Parts only.
+
+After installing, start SOLIDWORKS and tick Bridge Surface in Tools > Add-ins
+if it is not already on. The command is in the Bridge Surface menu.
+
+Released under the MIT licence (shown on the next page).

@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="BridgeSurfaceAddin.csproj" Id="54406e3d-5aea-4a22-83d3-91acb7e56249">
+    <Platform Project="x64" />
+  </Project>
+</Solution>
